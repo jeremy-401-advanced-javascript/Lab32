@@ -30,4 +30,4 @@ Usage Notes or examples
 
 
 #### UML
-<img src="./assets/images/UML.jpg" width="400">
+<img src="./src/assets/images/UML.jpg" width="400">
