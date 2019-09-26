@@ -9,7 +9,7 @@
 * [travis](http://xyz.com)
 * [back-end](https://q-js401.herokuapp.com) (when applicable)
 * [back-end](https://api-js401.herokuapp.com/api/v1/todo) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](https://pensive-elion-40c225.netlify.com) (when applicable)
 
 
 ### Modules
