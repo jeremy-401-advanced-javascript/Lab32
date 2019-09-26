@@ -5,7 +5,7 @@
 ### Author: Jeremy Lee
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/jeremy-401-advanced-javascript/Lab32/pull/1)
 * [travis](http://xyz.com)
 * [back-end](https://q-js401.herokuapp.com) (when applicable)
 * [back-end](https://api-js401.herokuapp.com/api/v1/todo) (when applicable)
